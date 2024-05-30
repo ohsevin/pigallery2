@@ -39,7 +39,7 @@
     "csurf": "1.11.0",
     "ejs": "3.1.6",
     "exifreader": "4.4.0",
-    "express": "4.17.3",
+    "express": "4.19.2",
     "express-unless": "1.0.0",
     "fluent-ffmpeg": "2.1.2",
     "image-size": "1.0.1",
